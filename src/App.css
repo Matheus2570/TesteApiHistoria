@@ -47,11 +47,14 @@ body {
   }
   
   .resultado {
-    text-align: left;
-    margin-top: 30px;
+   text-align: justify;
+  margin-top: 30px;
   }
+
+
   
   .resultado h2 {
+ 
     color: #34495e;
     margin-bottom: 10px;
   }
